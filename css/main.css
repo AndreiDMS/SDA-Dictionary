@@ -1,0 +1,27 @@
+.animate-show-hide.ng-hide {
+  animation: fadeOut 0.3s;
+}
+
+.animate-show-hide.ng-hide-remove {
+  animation: fadeIn 0.3s;
+}
+
+.small {
+	font-size: small;
+}
+
+.large {
+	font-size: large;
+}
+
+.fixed-height {
+	min-height: 100px;
+}
+
+.margin-small {
+	margin-bottom: 10px;
+}
+
+a {
+	transform: scale(0.5);
+}

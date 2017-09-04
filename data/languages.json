@@ -1,0 +1,5 @@
+[
+	{"id":1, "code": "RO", "name": "Romana", "source":"lang-ro.json"},
+	{"id":2, "code": "EN", "name": "English", "source":"lang-en.json"},
+	{"id":3, "code": "DE", "name": "Deutsche", "source":"lang-de.json"}
+]
